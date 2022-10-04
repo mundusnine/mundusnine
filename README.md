@@ -1,1 +1,1 @@
-## Maintaining [Kode Community](https://github.com/Kode-Community) projects
+## Coding fun stuff in C.
