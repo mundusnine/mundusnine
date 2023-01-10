@@ -24,7 +24,7 @@ A game engine in C ⚗️
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mundusnine&theme=synthwave&hide_border=false&=dracula&fire=e5289e&border=e5289e&sideLabels=e5289e&locale=en)    
    
 
-![Most used Langs](https://vercel-final-liard.vercel.app/api/top-langs/?username=mundusnine&theme=synthwave&layout=compact&count_private=true&langs_count=20&card_width=446&icon_color=ef8539&hide_border=false&border_color=e5289e&disable_animations=false&locale=en)  
+![Most used Langs](https://vercel-final-liard.vercel.app/api/top-langs/?username=mundusnine&theme=synthwave&layout=compact&count_private=true&langs_count=3&card_width=446&icon_color=ef8539&hide_border=false&border_color=e5289e&disable_animations=false&locale=en)  
 </div>
 
 
